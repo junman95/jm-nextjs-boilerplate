@@ -13,6 +13,7 @@ export default function Home() {
           height={38}
           priority
         />
+        <Button>Button</Button>
         <Dialog.Root>
           <Dialog.Trigger>
             <Button>Open Dialog</Button>
