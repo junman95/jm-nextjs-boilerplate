@@ -1,5 +1,11 @@
 # Nextjs 기반 보일러 플레이트 입니다.
 
+## 사용법
+```
+npx create-jm-nextjs-ts-radixui-sb8 앱이름
+```
+* 앱이름을 현재 폴더로 하고 싶으시면 `.`으로 기입하면 됩니다.
+
 ## Tech stack
 
 - nextjs15 + react 19
