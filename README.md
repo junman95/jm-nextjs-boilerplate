@@ -14,4 +14,4 @@ npx create-jm-nextjs-ts-radixui-sb8 앱이름
 
 ## 특이사항
 
-- radix/ui 의 스타일 시트 호환 이슈로 인해 .storybook 폴더에 css 파일 삽입
+- [radix/ui 의 스타일 시트 호환 이슈](https://github.com/radix-ui/themes/issues/59#issuecomment-1712661676)로 인해 .storybook 폴더에 css 파일 삽입
